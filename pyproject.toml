@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "poketwo"
+name = "MYBOT"
 version = "0.1.0"
 description = "A small Pokécord clone"
 authors = ["Oliver Ni <oliver.ni@gmail.com>"]
